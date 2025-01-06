@@ -1,0 +1,29 @@
+body {
+    background-color: #C0C0C0;
+}
+
+h1, h3, p{
+    color: white;
+}
+
+#header {
+    background-image: linear-gradient(to right, #08306E, #A4C8EF);
+    margin: 5px;
+    padding-right: 5px;
+}
+
+#title {
+    margin-top: 15px;
+    display: inline-block;
+}
+
+#logo {
+    display: inline-block;
+    width: 25px;
+    height: 25px;
+}
+
+pre {
+        white-space: pre-wrap;
+    
+}
